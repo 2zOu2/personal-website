@@ -1,0 +1,95 @@
+---
+title: "CV"
+---
+
+<section class="section" style="padding-top: 80px;">
+<div class="container">
+<div class="section-head">
+<div><span class="mono">// curriculum vitae</span><h2 class="section-title">CV</h2></div>
+<div>
+<p class="section-kicker" style="margin-bottom: 20px;">The full document is also embedded below as a PDF.</p>
+<a class="cv-download" href="files/Resume_ZO_DS.pdf" target="_blank" rel="noopener noreferrer">↓ Download PDF</a>
+</div>
+</div>
+
+<div class="cv-grid">
+<div class="mono">Education</div>
+<div class="cv-block">
+<div class="cv-entry">
+<div class="when">2024 — 2026</div>
+<div class="what">
+<h4>MSPH, Biostatistics</h4>
+<div class="where">Rollins School of Public Health, Emory University</div>
+<p>Relevant coursework: Generalized Linear Models (PhD-level), Clinical Trial Design, Survival Analysis, SQL Programming, SAS Programming, Machine Learning, NLP, AI tool applications.</p>
+</div>
+</div>
+<div class="cv-entry">
+<div class="when">2020 — 2024</div>
+<div class="what">
+<h4>BS, Applied Mathematics and Statistics</h4>
+<div class="where">Emory University</div>
+<p>Foundational training in probability, statistical inference, optimization, and computational methods.</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="cv-grid" style="margin-top: 40px;">
+<div class="mono">Experience</div>
+<div class="cv-block">
+<div class="cv-entry">
+<div class="when">Aug — Dec 2025</div>
+<div class="what">
+<h4>Clinical Data Analyst (Part-time)</h4>
+<div class="where">Emory Healthcare · Atlanta, GA</div>
+<p>Performed primary statistical analysis for a 2,648-patient (3,452 knees) retrospective cohort comparing three orthobiologic treatments in R; designed a reproducible pipeline from raw EHR-derived data to publication-ready output. Built adjusted linear mixed-effects models (lme4) for 2-year longitudinal pain outcomes with multiple imputation handling ~18% missingness. Co-authored manuscript currently under peer review.</p>
+</div>
+</div>
+<div class="cv-entry">
+<div class="when">May — Aug 2025</div>
+<div class="what">
+<h4>Biostatistician Intern</h4>
+<div class="where">Highthink Pharmaceutical Technology Service Co., Ltd. · Remote</div>
+<p>Drafted 3 core SAP sections (primary/secondary endpoints, estimand definitions, analysis populations) for a Phase II RCT aligned with ICH E9(R1). Performed MMRM and subgroup analyses in SAS (PROC MIXED) for a ~200-patient trial; generated TLFs, ran power/sample-size calculations in PASS, and implemented stratified block randomization via PROC PLAN.</p>
+</div>
+</div>
+<div class="cv-entry">
+<div class="when">Jun 2023 — May 2024</div>
+<div class="what">
+<h4>Research Assistant</h4>
+<div class="where">Rollins School of Public Health, Emory University</div>
+<p>Developed adaptive Thompson Sampling algorithms in Python on high-frequency ERP time-series data, reducing signal detection latency by ~35%. Integrated an NLP-based language model dictionary to re-weight noisy ERP features. Presented findings to 2,000+ attendees at the 2023 Society for Neuroscience Annual Conference.</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="cv-grid" style="margin-top: 40px;">
+<div class="mono">Skills</div>
+<div class="cv-block">
+<div class="cv-entry">
+<div class="when">Programming</div>
+<div class="what"><p>R, SAS, Python, SQL, GitHub (version control), Claude Code.</p></div>
+</div>
+<div class="cv-entry">
+<div class="when">Statistical Methods</div>
+<div class="what"><p>Mixed Models (LME/MMRM), Longitudinal Analysis, Survival Analysis, Generalized Linear Models, Multiple Imputation, Causal Inference, Quasi-experimental Design, ML/NLP.</p></div>
+</div>
+<div class="cv-entry">
+<div class="when">Clinical Trials</div>
+<div class="what"><p>SAP Development, MMRM, ICH E9(R1), TLF Generation, RWE/HEOR.</p></div>
+</div>
+</div>
+</div>
+
+<embed src="files/Resume_ZO_DS.pdf" type="application/pdf" class="pdf-embed"></embed>
+
+</div>
+</section>
+
+<footer class="footer">
+<div class="container footer-inner">
+<span>© 2026 Zhengyi Ou</span>
+<span>joeou2002@gmail.com</span>
+</div>
+</footer>

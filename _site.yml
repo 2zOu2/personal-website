@@ -1,0 +1,27 @@
+name: "zhengyi-ou"
+output_dir: "docs"
+navbar:
+  title: "Zhengyi Ou"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "CV"
+      href: cv.html
+    - text: "Contact"
+      href: contact.html
+  right:
+    - icon: fa-github
+      href: https://github.com/2zOu2
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/zhengyiou
+    - icon: fa-envelope
+      href: mailto:joeou2002@gmail.com
+output:
+  html_document:
+    theme: cosmo
+    css: styles.css
+    include:
+      in_header: header.html
+    self_contained: false

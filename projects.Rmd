@@ -1,0 +1,96 @@
+---
+title: "Projects"
+---
+
+<section class="section" style="padding-top: 80px;">
+<div class="container">
+<div class="section-head">
+<div><span class="mono">// projects</span><h2 class="section-title">Selected work</h2></div>
+<p class="section-kicker">Graduate-level projects, written for a general reader. Code lives on GitHub; click through to see the full repository, methodology, and write-up.</p>
+</div>
+
+<div class="projects">
+
+<a class="project" href="https://github.com/2zOu2" target="_blank" rel="noopener noreferrer">
+<div class="project-num">01 —</div>
+<div class="project-thumb">
+<svg viewBox="0 0 200 150" preserveAspectRatio="none">
+<rect width="200" height="150" fill="#e3ecf6"/>
+<circle cx="25" cy="105" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="35" cy="100" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="45" cy="92" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="55" cy="88" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="65" cy="80" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="75" cy="74" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="85" cy="68" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="95" cy="62" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="105" cy="55" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="115" cy="50" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="125" cy="46" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="135" cy="42" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="145" cy="38" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="155" cy="34" r="2.5" fill="#3b6ea8" opacity="0.7"/><circle cx="165" cy="30" r="2.5" fill="#3b6ea8" opacity="0.7"/>
+<line x1="20" y1="115" x2="180" y2="40" stroke="#3b6ea8" stroke-width="1.5" stroke-dasharray="3 3"/>
+<line x1="18" y1="20" x2="18" y2="130" stroke="#a8c4dd" stroke-width="0.5"/>
+<line x1="18" y1="130" x2="185" y2="130" stroke="#a8c4dd" stroke-width="0.5"/>
+</svg>
+</div>
+<div class="project-body">
+<h3>Post-stroke sleep outcomes — multivariate longitudinal analysis</h3>
+<p>MSPH capstone with public-health faculty and physicians on the SLEEPR study. Analyzed wearable sleep-tracking data across 50 stroke recovery patients (10,000+ sleep/wake episodes); built a predictive model accurate to within ~2 minutes on average and identified peak vulnerability windows to inform intervention timing.</p>
+<div class="project-tags">
+<span class="project-tag">R</span><span class="project-tag">Longitudinal</span><span class="project-tag">Wearables</span><span class="project-tag">Mixed Models</span>
+</div>
+</div>
+<div class="project-meta">
+<div>2026</div><div>MSPH Capstone</div><span class="arrow">→</span>
+</div>
+</a>
+
+<a class="project" href="https://github.com/2zOu2/cdc-obesity-sql-analysis" target="_blank" rel="noopener noreferrer">
+<div class="project-num">02 —</div>
+<div class="project-thumb">
+<svg viewBox="0 0 200 150" preserveAspectRatio="none">
+<rect width="200" height="150" fill="#e2e8f0"/>
+<rect x="20" y="90" width="14" height="40" fill="#475569"/>
+<rect x="42" y="60" width="14" height="70" fill="#94a3b8"/>
+<rect x="64" y="75" width="14" height="55" fill="#475569"/>
+<rect x="86" y="40" width="14" height="90" fill="#94a3b8"/>
+<rect x="108" y="65" width="14" height="65" fill="#475569"/>
+<rect x="130" y="30" width="14" height="100" fill="#94a3b8"/>
+<rect x="152" y="85" width="14" height="45" fill="#475569"/>
+<rect x="174" y="50" width="14" height="80" fill="#94a3b8"/>
+<line x1="18" y1="130" x2="200" y2="130" stroke="#475569" stroke-width="1"/>
+</svg>
+</div>
+<div class="project-body">
+<h3>U.S. Chronic Disease Indicators — health data pipeline & SQL analytics</h3>
+<p>Designed a star-schema MySQL database (1 fact, 3 dimension tables) from 30,000+ raw CDC BRFSS records spanning 55 states/territories; built a full ETL pipeline with staging, NULL handling, and type casting. Wrote 5 analytical queries using JOINs, CTEs, and window aggregations to surface geographic and demographic disparities in obesity prevalence across income, age, race, and sex strata.</p>
+<div class="project-tags">
+<span class="project-tag">SQL</span><span class="project-tag">MySQL</span><span class="project-tag">ETL</span><span class="project-tag">Star Schema</span>
+</div>
+</div>
+<div class="project-meta">
+<div>2025</div><div>Data Engineering</div><span class="arrow">→</span>
+</div>
+</a>
+
+<a class="project" href="https://github.com/2zOu2/Chest_xRay" target="_blank" rel="noopener noreferrer">
+<div class="project-num">03 —</div>
+<div class="project-thumb">
+<svg viewBox="0 0 200 150" preserveAspectRatio="none">
+<rect width="200" height="150" fill="#e1ebde"/>
+<path d="M10 130 Q 50 130 70 90 Q 90 50 110 50 Q 130 50 150 90 Q 170 130 195 130 Z" fill="#a8c2a4" opacity="0.6"/>
+<path d="M10 130 Q 50 130 70 90 Q 90 50 110 50 Q 130 50 150 90 Q 170 130 195 130" fill="none" stroke="#5b7c5a" stroke-width="1.5"/>
+<line x1="110" y1="50" x2="110" y2="130" stroke="#5b7c5a" stroke-width="0.5" stroke-dasharray="2 2"/>
+</svg>
+</div>
+<div class="project-body">
+<h3>Chest X-ray pneumonia classification — machine learning comparison</h3>
+<p>Compared KNN, PCR, Random Forest, and CNN models on a 5,863-image pediatric dataset; applied PCA dimensionality reduction (140 components) and 5-fold cross-validation. PCR achieved the lowest validation error at ~4.06%, with a clean write-up of trade-offs across model families.</p>
+<div class="project-tags">
+<span class="project-tag">Python</span><span class="project-tag">ML</span><span class="project-tag">PCA</span><span class="project-tag">CNN</span>
+</div>
+</div>
+<div class="project-meta">
+<div>2024</div><div>Course Project</div><span class="arrow">→</span>
+</div>
+</a>
+
+</div>
+</div>
+</section>
+
+<footer class="footer">
+<div class="container footer-inner">
+<span>© 2026 Zhengyi Ou</span>
+<span>github.com/2zOu2</span>
+</div>
+</footer>

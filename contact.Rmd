@@ -1,0 +1,48 @@
+---
+title: "Contact"
+---
+
+<section class="section" style="padding-top: 80px;">
+<div class="container">
+<div class="section-head">
+<div><span class="mono">// contact</span><h2 class="section-title">Get in touch</h2></div>
+<p class="section-kicker">Open to data-analyst roles starting summer 2026 — and always happy to talk about clinical data, R packages, or a good dataset.</p>
+</div>
+
+<div class="contact-grid">
+<div class="contact-info">
+<p>The fastest way to reach me is email. For project links and code, GitHub. For everything else, the form on the right.</p>
+
+<div class="contact-direct">
+<div class="row"><span class="mono">Email</span><span class="val"><a href="mailto:joeou2002@gmail.com">joeou2002@gmail.com</a></span></div>
+<div class="row"><span class="mono">GitHub</span><span class="val"><a href="https://github.com/2zOu2" target="_blank" rel="noopener noreferrer">github.com/2zOu2</a></span></div>
+<div class="row"><span class="mono">LinkedIn</span><span class="val"><a href="https://www.linkedin.com/in/zhengyiou" target="_blank" rel="noopener noreferrer">linkedin.com/in/zhengyiou</a></span></div>
+<div class="row"><span class="mono">Location</span><span class="val">Atlanta, GA</span></div>
+</div>
+</div>
+
+<form class="form" action="https://formspree.io/f/your-id" method="POST">
+<div class="field">
+<label for="name">Your name</label>
+<input id="name" name="name" type="text" placeholder="Jane Doe" required>
+</div>
+<div class="field">
+<label for="email">Email</label>
+<input id="email" name="email" type="email" placeholder="jane@company.com" required>
+</div>
+<div class="field">
+<label for="message">Message</label>
+<textarea id="message" name="message" placeholder="A few sentences about what you're working on…" required></textarea>
+</div>
+<button class="btn-primary" type="submit">Send message →</button>
+</form>
+</div>
+</div>
+</section>
+
+<footer class="footer">
+<div class="container footer-inner">
+<span>© 2026 Zhengyi Ou</span>
+<span>Atlanta, GA</span>
+</div>
+</footer>

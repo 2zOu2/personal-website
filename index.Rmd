@@ -1,0 +1,80 @@
+---
+title: "Zhengyi Ou"
+---
+
+<section class="hero">
+<div class="container">
+<div class="hero-eyebrow"><span class="bar"></span><span class="mono">Portfolio · 2026</span></div>
+<div class="hero-grid">
+<div>
+
+# Hello! I'm <em>Zhengyi Ou</em>
+
+<p class="hero-bio">
+Biostatistics graduate student at Emory turning clinical, EHR, and trial data into clear, decision-ready evidence. I work in R, SAS, Python, and SQL — from raw data through reproducible pipelines to publication-ready output.
+</p>
+
+<div class="hero-meta">
+<div class="hero-meta-item"><span class="mono">Program</span><span class="val">MSPH Biostatistics</span></div>
+<div class="hero-meta-item"><span class="mono">Institution</span><span class="val">Emory University, '26</span></div>
+<div class="hero-meta-item"><span class="mono">Looking for</span><span class="val">Data Analyst roles</span></div>
+</div>
+
+</div>
+<div class="portrait-wrap">
+<div class="portrait">
+<img src="images/portrait.jpg" alt="Zhengyi Ou">
+<div class="portrait-tag">Atlanta, GA · 2026</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<div class="section-head">
+<div><span class="mono">// 01</span><h2 class="section-title">Toolkit</h2></div>
+<p class="section-kicker">Day-to-day stack. The languages and tools I reach for when a question lands on my desk.</p>
+</div>
+<div class="tools">
+<span class="tool-chip"><span class="cat">LANG</span>R</span>
+<span class="tool-chip"><span class="cat">LANG</span>SAS</span>
+<span class="tool-chip"><span class="cat">LANG</span>Python</span>
+<span class="tool-chip"><span class="cat">LANG</span>SQL</span>
+<span class="tool-chip"><span class="cat">STATS</span>MMRM / LME</span>
+<span class="tool-chip"><span class="cat">STATS</span>Survival</span>
+<span class="tool-chip"><span class="cat">STATS</span>GLM</span>
+<span class="tool-chip"><span class="cat">STATS</span>Causal Inference</span>
+<span class="tool-chip"><span class="cat">TRIALS</span>SAP Development</span>
+<span class="tool-chip"><span class="cat">TRIALS</span>ICH E9(R1)</span>
+<span class="tool-chip"><span class="cat">TRIALS</span>TLF Generation</span>
+<span class="tool-chip"><span class="cat">TRIALS</span>PASS</span>
+<span class="tool-chip"><span class="cat">TOOLS</span>Git</span>
+<span class="tool-chip"><span class="cat">TOOLS</span>ggplot2</span>
+<span class="tool-chip"><span class="cat">TOOLS</span>lme4</span>
+<span class="tool-chip"><span class="cat">TOOLS</span>Claude Code</span>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<div class="section-head">
+<div><span class="mono">// 02</span><h2 class="section-title">Right now</h2></div>
+<p class="section-kicker">A snapshot of what's currently on my desk.</p>
+</div>
+<div class="now">
+<div class="now-cell"><span class="mono">Working on</span><p class="body">Co-authored manuscript on a 2,648-patient orthobiologic cohort — currently under peer review.</p></div>
+<div class="now-cell"><span class="mono">Wrapping up</span><p class="body">MSPH capstone on post-stroke sleep outcomes using wearable data from 50 patients.</p></div>
+<div class="now-cell"><span class="mono">Open to</span><p class="body">Full-time Data Analyst / Biostatistician roles starting summer 2026.</p></div>
+</div>
+</div>
+</section>
+
+<footer class="footer">
+<div class="container footer-inner">
+<span>© 2026 Zhengyi Ou — Built with R Markdown + GitHub Pages</span>
+<span>Last updated · Apr 2026</span>
+</div>
+</footer>
